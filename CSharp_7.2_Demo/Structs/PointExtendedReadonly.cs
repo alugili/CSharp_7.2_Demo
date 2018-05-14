@@ -1,4 +1,4 @@
-﻿namespace CSharp_7._2_Demo
+﻿namespace CSharp_7._2_Demo.Structs
 {
 
   // All members(properties, fields) must be read-only;

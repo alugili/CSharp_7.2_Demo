@@ -1,4 +1,6 @@
-﻿namespace CSharp_7._2_Demo
+﻿using CSharp_7._2_Demo.PrivateProtected;
+
+namespace CSharp_7._2_Demo
 {
   class Program
   {
@@ -8,11 +10,14 @@
 
       NonTrailingNamedArguments.FormatLogs("Write Formatted Logs!");
 
+      PrivateProtectedDemo.PrivateProtected();
+
       ConditionalRefOperatorDemo.ConditionalRefOperator();
 
       StructsDemo.Structs();
 
       SpanDemo.Span();
+
     }
   }
 }

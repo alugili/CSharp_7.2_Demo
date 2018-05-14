@@ -64,11 +64,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PrivateProtected\PrivateProtectedDemo.cs" />
+    <Compile Include="PrivateProtected\BasePrivateProtected.cs" />
     <Compile Include="DigitSeparatorAfterBaseSpecifierDemo.cs" />
+    <Compile Include="PrivateProtected\InheritedInSameAssembly.cs" />
     <Compile Include="NonTrailingNamedArguments.cs" />
-    <Compile Include="PointExtended.cs" />
-    <Compile Include="PointExtendedReadonly.cs" />
-    <Compile Include="PointExtendedReadonlyRef.cs" />
+    <Compile Include="Structs\PointExtended.cs" />
+    <Compile Include="Structs\PointExtendedReadonly.cs" />
+    <Compile Include="Structs\PointExtendedReadonlyRef.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="ConditionalRefOperatorDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

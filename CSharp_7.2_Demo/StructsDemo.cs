@@ -1,4 +1,5 @@
 ﻿using System;
+using CSharp_7._2_Demo.Structs;
 
 namespace CSharp_7._2_Demo
 {
