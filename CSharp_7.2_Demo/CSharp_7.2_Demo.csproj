@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>CSharp_7._2_Demo</RootNamespace>
     <AssemblyName>CSharp_7.2_Demo</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
@@ -68,7 +68,7 @@
     <Compile Include="PrivateProtected\BasePrivateProtected.cs" />
     <Compile Include="DigitSeparatorAfterBaseSpecifierDemo.cs" />
     <Compile Include="PrivateProtected\InheritedInSameAssembly.cs" />
-    <Compile Include="NonTrailingNamedArguments.cs" />
+    <Compile Include="NonTrailingNamedArgumentsDemo.cs" />
     <Compile Include="Structs\PointExtended.cs" />
     <Compile Include="Structs\PointExtendedReadonly.cs" />
     <Compile Include="Structs\PointExtendedReadonlyRef.cs" />

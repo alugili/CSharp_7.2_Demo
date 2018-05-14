@@ -8,7 +8,7 @@ namespace CSharp_7._2_Demo
     {
       DigitSeparatorAfterBaseSpecifierDemo.DigitSeparatorAfterBaseSpecifier();
 
-      NonTrailingNamedArguments.FormatLogs("Write Formatted Logs!");
+      NonTrailingNamedArgumentsDemo.NonTrailingNamedArguments();
 
       PrivateProtectedDemo.PrivateProtected();
 
@@ -17,7 +17,6 @@ namespace CSharp_7._2_Demo
       StructsDemo.Structs();
 
       SpanDemo.Span();
-
     }
   }
 }
