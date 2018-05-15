@@ -1,6 +1,5 @@
 ﻿namespace CSharp_7._2_Demo.Structs
 {
-
   // All members(properties, fields) must be read-only;
   // I’ll need to initialize the members in the public parameterized constructor; 
   // “this” parameter will be read-only in other place except in constructor.

@@ -6,15 +6,16 @@ namespace CSharp_7._2_Demo
   {
     static void Main(string[] args)
     {
-      DigitSeparatorAfterBaseSpecifierDemo.DigitSeparatorAfterBaseSpecifier();
+      //DigitSeparatorAfterBaseSpecifierDemo.DigitSeparatorAfterBaseSpecifier();
 
-      NonTrailingNamedArgumentsDemo.NonTrailingNamedArguments();
+      // NonTrailingNamedArgumentsDemo.NonTrailingNamedArguments();
 
-      PrivateProtectedDemo.PrivateProtected();
 
-      ConditionalRefOperatorDemo.ConditionalRefOperator();
+      // ConditionalRefOperatorDemo.ConditionalRefOperator();
 
-      StructsDemo.Structs();
+      // PrivateProtectedDemo.PrivateProtected();
+
+     // StructsDemo.Structs();
 
       SpanDemo.Span();
     }
